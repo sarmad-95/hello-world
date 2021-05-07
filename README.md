@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+My name is Sarmad, I like dark themes for apps.
